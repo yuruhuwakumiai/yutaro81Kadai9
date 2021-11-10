@@ -12,4 +12,5 @@ class NextViewController: UIViewController {
     let saitamalabel = "埼玉"
     let kanagawalabel = "神奈川"
     let chibalabel = "千葉"
+    let osakalabel = "大阪"
 }
